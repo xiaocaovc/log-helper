@@ -1,0 +1,23 @@
+{
+  "name": "log-helper",
+  "version": "0.1.0",
+  "description": "a log4js helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xiaocaovc:cao801214@github.com/xiaocaovc/log-helper.git"
+  },
+  "author": "centercao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaocaovc/log-helper/issues"
+  },
+  "homepage": "https://github.com/xiaocaovc/log-helper#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "log4js": "^2.3.3"
+  }
+}
