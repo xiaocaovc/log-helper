@@ -1,6 +1,6 @@
 {
-  "name": "log-helper",
-  "version": "0.1.0",
+  "name": "logger-helper",
+  "version": "0.1.1",
   "description": "a log4js helper",
   "main": "index.js",
   "scripts": {

@@ -34,7 +34,7 @@ const defaultOptions =
 	};
  */
 
-var log4js = require("../index");
+var log4js = require("logger-helper");
 var Logger = (new log4js({appenders:{dateLog:{filename: "logs/net"}}},'dateLog'));
 var logger = Logger.logger;
 logger.info("info abcd");
