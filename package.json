@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://xiaocaovc:cao801214@github.com/xiaocaovc/log-helper.git"
+    "url": "git+https://github.com/xiaocaovc/log-helper.git"
   },
   "author": "centercao",
   "license": "MIT",
